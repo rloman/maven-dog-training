@@ -2,7 +2,6 @@ package nl.itacademy.dogtraining.datetime;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.experimental.theories.suppliers.TestedOn;
 
 import java.time.*;
 import java.time.temporal.ChronoUnit;
